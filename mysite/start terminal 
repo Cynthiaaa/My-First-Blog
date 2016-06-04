@@ -1,0 +1,9 @@
+MacBook-Air-de-Cynthia:~ cynthia$ 
+MacBook-Air-de-Cynthia:~ cynthia$ cd 
+MacBook-Air-de-Cynthia:~ cynthia$ cd Documents/djangogirls
+MacBook-Air-de-Cynthia:djangogirls cynthia$ ls
+blog		db.sqlite3	manage.py	mysite		myvenv
+MacBook-Air-de-Cynthia:djangogirls cynthia$ . myvenv
+-bash: .: myvenv: is a directory
+MacBook-Air-de-Cynthia:djangogirls cynthia$ . myvenv/bin/activate
+(myvenv) MacBook-Air-de-Cynthia:djangogirls cynthia$ git status
